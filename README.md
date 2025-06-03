@@ -41,4 +41,35 @@
 - Minecraft Server: Paper 1.16–1.21.5 (tested with 1.21.5)
 - Java Runtime: Java 17 or higher
 
+## Images
+
+- Welcome Message:
+
+![image](https://github.com/user-attachments/assets/7ccbe597-1e61-4436-9be6-4de3240ee9b7)
+
+- Correct Answer:
+
+![image](https://github.com/user-attachments/assets/24900eab-2968-4a0d-a8d6-409eb37ab8ca)
+
+- Incorrect Answer:
+
+![image](https://github.com/user-attachments/assets/47e0e4f6-28c4-467a-bfb2-f65aa0e10b9c)
+
+- Command List:
+
+![image](https://github.com/user-attachments/assets/8f77434c-eea1-4803-a8fc-898f5d256267)
+
+- Verified Players:
+
+![image](https://github.com/user-attachments/assets/889d241c-1940-4d41-b72b-0de277272a44)
+
+- Enabled/Disabled
+ 
+![image](https://github.com/user-attachments/assets/96554c9c-4ddd-4223-8ed7-d1fce857a530)
+
+- Unauthrozied
+  
+![image](https://github.com/user-attachments/assets/d9537747-5e76-4aac-a893-af033e185f8c)
+
+
 Last Updated: 6/2/2025
