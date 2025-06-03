@@ -1,6 +1,6 @@
 # AuthEntry
 
-**AuthEntry** is a Paper plugin designed to enhance server access control by requiring new or unverified players to answer a predefined security question before gaining full interaction privileges. Until verification is complete, players are restricted from chatting, moving, or interacting.
+**AuthEntry** is a Minecraft paper plugin designed to enhance server access control by requiring new or unverified players to answer a predefined security question before gaining full interaction privileges. Until verification is complete, players are restricted from chatting, moving, or interacting.
 
 ## Features
 
